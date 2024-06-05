@@ -1,5 +1,12 @@
 # PHP Zip
 
+## What changes after fork
+
+- Change a dependency
+
+## Below is original content
+
+PHPePub allows a php script to generate ePub Electronic books on the fly, and send them to the user as downloads.
 A pair of PHP classes to generate zip files.
 
 The projects that started these two classes are hosted on PHPClasses.org at the addresses:
